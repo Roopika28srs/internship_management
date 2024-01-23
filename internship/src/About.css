@@ -88,6 +88,29 @@
             line-height: 1.6;
             font-weight: 800;
           }
+          .about2 h1{
+            position: relative;
+            font-family: 'Times New Roman', Times, serif;
+            color: rgb(56, 147, 226);
+            top:-630px;
+            font-size: 40px;
+            left:1000px;
+            text-align: justify;
+            width: 800px;
+            line-height: 1.6;
+            font-weight: 800;
+          }
+          .about2 li{
+            position: relative;
+            font-family: 'Times New Roman', Times, serif;
+            color: aliceblue;
+            top:-630px;
+            font-size: 20px;
+            left:-20px;
+            text-align: justify;
+            width: 800px;
+            line-height: 1.6;
+          }
           .image img{
                  position: absolute;
                 top: 130px;

@@ -33,11 +33,14 @@ function About() {
         
       <h2>About Us</h2>
 <p>InnovateTech is a forward-thinking technology company specializing in software development, artificial intelligence, cybersecurity, etc.Founded on the principles of innovation and creativity, InnovateTech has been at the forefront of technological advancements since its inception in 2003.</p>
+</div>
+<div class="about2">
     <h1>What we Offer</h1>
      <li>Hands-On Experience: Interns participate in real projects, applying theoretical knowledge to practical situations.</li>
      <li>Mentorship and Guidance: Our interns receive mentorship from seasoned professionals, fostering personal and professional growth.</li>
-     
-    </div>
+     <li>Innovation Hub: InnovateTech encourages creative thinking and welcomes new ideas, empowering interns to contribute meaningfully.</li>
+     <li>Networking Opportunities: Interns engage with professionals, attend tech seminars, and network within the industry.</li>
+     </div>
     <div class="image">
     <img src="https://cse.noticebard.com/wp-content/uploads/sites/23/2023/09/Summer-IBM-Remote-Internship-2024.jpg"/>
     </div>
