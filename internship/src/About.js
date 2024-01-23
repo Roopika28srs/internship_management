@@ -18,11 +18,10 @@ function About() {
             <a href="/internships">Internships</a>
           </li>
           </Link>
+          <Link to="/about">
           <li id="AboutUs">
-          
-            <a href="/about">About Us</a>
-           
-          </li>
+          <a href="/about">About Us</a>
+             </li></Link>
           <Link to="/home2">
           <li id="Home">
          <a href="/home">Home</a>
@@ -37,8 +36,7 @@ function About() {
     <h1>What we Offer</h1>
      <li>Hands-On Experience: Interns participate in real projects, applying theoretical knowledge to practical situations.</li>
      <li>Mentorship and Guidance: Our interns receive mentorship from seasoned professionals, fostering personal and professional growth.</li>
-     <li>Innovation Hub: InnovateTech encourages creative thinking and welcomes new ideas, empowering interns to contribute meaningfully.</li>
-     <li>Networking Opportunities: Interns engage with professionals, attend tech seminars, and network within the industry.</li>
+     
     </div>
     <div class="image">
     <img src="https://cse.noticebard.com/wp-content/uploads/sites/23/2023/09/Summer-IBM-Remote-Internship-2024.jpg"/>
