@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/internship_management/static/css/main.259d401b.css",
+    "main.js": "/internship_management/static/js/main.98c5f6f7.js",
+    "static/js/787.00de0962.chunk.js": "/internship_management/static/js/787.00de0962.chunk.js",
+    "index.html": "/internship_management/index.html",
+    "main.259d401b.css.map": "/internship_management/static/css/main.259d401b.css.map",
+    "main.98c5f6f7.js.map": "/internship_management/static/js/main.98c5f6f7.js.map",
+    "787.00de0962.chunk.js.map": "/internship_management/static/js/787.00de0962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259d401b.css",
+    "static/js/main.98c5f6f7.js"
+  ]
+}
