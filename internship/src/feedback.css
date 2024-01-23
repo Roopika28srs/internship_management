@@ -1,0 +1,191 @@
+.design43{
+  margin: 0;
+  padding: 0;
+background-image: url("https://briidea.in/wp-content/uploads/2018/08/Basic-Landing-Page-background.jpg");
+ background-size: cover;
+  background-position: center;
+  height: 100vh; 
+  display: flex;
+  flex-direction: column;
+
+  }
+  .design43 img{
+       position: absolute;
+  top: 0.3px;
+          left: -1px;
+          width:270px;
+          height:70px;
+          background-color:#073d70; ;
+          
+  }
+.admin11{
+  position: relative;
+  color: aliceblue;
+  font-size: 40px;
+  top:-750px;
+  left:530px;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 900;
+  
+}
+.sidenav h1{
+  color: rgb(0, 131, 245);
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.sidenav {
+  height: 90%;
+  width: 270px;
+  position: relative;
+  position: fixed;
+  z-index: 1;
+  top:70px;
+  left: 0;
+  background-color: rgba(13, 68, 105, 0.5);
+  overflow-x: hidden;
+  padding-top: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 1.5;
+}
+
+.sidenav a {
+  padding: 6px 6px 6px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #e7e4e4;
+  display: block;
+}
+
+.sidenav a:hover {
+  color:rgb(0, 131, 245);
+}
+.submenu {
+  padding-left: 20px;
+}
+
+.submenu li {
+  list-style: none;
+}
+
+.submenu a {
+  padding: 5px 16px;
+  text-decoration: none;
+  font-size: 16px;
+  color: #ccc;
+}
+
+.submenu li a:hover {
+  color:rgb(0, 131, 245);
+  background-color:rgb(48, 48, 49);
+}
+.henss {
+  position: relative;
+  top:-650px;
+  left:350px;
+  margin-top: 20px; 
+  }
+  .henss table {
+    width: 60%; 
+    border-collapse: collapse;
+    border: 2px solid #2664ab;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .tables{
+    max-height: 380px;
+    overflow-y: scroll; 
+    box-sizing: content-box; 
+  border:2px solid #033660;
+    
+  }
+  
+  .tables::-webkit-scrollbar {
+    width: 8px; 
+    height: 100px; 
+    background-color: #ccc;
+  }
+  
+  
+  .tables::-webkit-scrollbar-thumb {
+    background-color: #1f8296; 
+  
+    border-radius: 5px;
+  }
+  .henss th {
+    border: 2px solid #201d1d;
+    padding-right: 175px;
+    font-size: 25px;
+    background-color: #f2f2f2;
+    font-family: 'Times New Roman', Times, serif;
+    white-space: nowrap;}
+  .henss p{
+    position: relative;
+    left:20px;
+  }
+  .henss td {
+    border: 2px solid #100f0f;
+    font-size: 15px;
+    padding: 20px;;
+    text-align: left;
+    background-color: #f2f2f2;
+    font-family: 'Times New Roman', Times, serif;
+  }
+.parrot{
+  position: relative;
+  top:-700px;
+  left:500px;
+  color:black;
+  background-color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+  width:700px;
+height: 80px;
+  text-align: center;
+  border:5px solid rgb(26, 149, 198);
+}
+.checked {
+  color: orange;
+}
+form.exampless input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 20%;
+  background: #f1f1f1;
+  position: relative;
+  top:-650px;
+  left:1030px;
+  }
+  
+  form.exampless button {
+  float: left;
+  width: 5%;
+  padding: 15x;
+  background: #2196F3;
+  color: white;
+  height: 45px;;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none;
+  cursor: pointer;
+  position: relative;
+  top:-650px;
+  left:1030px;
+  }
+  form.exampless button:hover {
+    background: #0b7dda;
+    }
+    
+    form.exampless::after {
+    content: "";
+    clear: both;
+    display: table;
+    }
+    
+.cat1{
+  position: relative;
+  top:-830px;
+  left:1000px;
+}
