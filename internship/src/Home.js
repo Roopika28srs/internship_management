@@ -8,7 +8,8 @@ return (
 <ul>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6EuuU63OPV5tpGuub1gXHMrg3Qlw_jVe2w&usqp=CAU
 "></img>
-<li id="Contact Us"><a href="Contact">Contact Us</a></li>
+<Link to="/contact">  
+<li id="Contact Us"><a href="Contact">Contact Us</a></li></Link>
 <Link to="/intern">
 <li id="Internships"><a href="Internships">Internships</a></li>
 </Link>

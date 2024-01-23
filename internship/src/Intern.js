@@ -21,17 +21,20 @@ function Intern() {
         <ul>
           <img
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs6EuuU63OPV5tpGuub1gXHMrg3Qlw_jVe2w&usqp=CAU"></img>
+         <Link to="/contact">      
           <li id="ContactUs">
             <a href="/contact">Contact Us</a>
           </li>
+          </Link>  
           <Link to="/intern">
           <li id="Internships">
             <a href="/internships">Internships</a>
           </li>
           </Link>
+          <Link to="/about" >
            <li id="AboutUs">
            <a href="/about">About Us</a>
-            </li>
+            </li></Link>
           <Link to="/home2">
           <li id="Home">
          <a href="/home">Home</a>

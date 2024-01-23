@@ -26,9 +26,10 @@ function Contact() {
             <a href="/internships">Internships</a>
           </li>
           </Link>
+          <Link to="/about" >
           <li id="AboutUs">
             <a href="/about">About Us</a>
-          </li>
+          </li></Link>
           <Link to="/home2">
           <li id="Home">
             <a href="/home">Home</a>
